@@ -65,14 +65,12 @@ Java Full Stack Developer | Spring Boot | React | SQL
 💼 Role
 Java Full Stack Developer
 
-🧑‍💻 Experience
-3+ Years
-
 📍 Location
 Pune, Maharashtra, India
 
 💻 Languages & Technologies
 • Java
+• Python
 • Spring Boot
 • React
 • SQL
@@ -84,12 +82,13 @@ Pune, Maharashtra, India
 • Maven
 • Postman
 • AWS
+• Kafka
 
 📧 Email
-yourmail@gmail.com
+ahireabhishek.15@gmail.com
 
 🔗 LinkedIn
-linkedin.com/in/yourprofile
+linkedin.com/in/abhishek-ahire-071791268/
 ```
 
 </td>
@@ -116,17 +115,12 @@ linkedin.com/in/yourprofile
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
