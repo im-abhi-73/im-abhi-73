@@ -53,44 +53,41 @@
 
 <td width="52%">
 
-<h3>👨‍💻 About Me</h3>
 
-<ul>
-  <li><b>Role:</b> Java Full Stack Developer</li>
-  <li><b>Experience:</b> 3+ Years</li>
-  <li><b>Location:</b> Pune, India 🇮🇳</li>
-</ul>
+```text
+--------------------------------------
+        Abhishek Ahire
+--------------------------------------
 
-<h3>⚡ Tech Stack</h3>
+Role        : Java Full Stack Developer
+Experience  : 3+ Years
+Location    : Pune, India
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
+Languages
+----------
+Java
+Spring Boot
+React
+SQL
+JavaScript
 
-<h3>📫 Connect With Me</h3>
+Tools
+----------
+Git
+Docker
+Postman
+Maven
+AWS
 
-<p>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Email
+----------
+yourmail@gmail.com
 
-</td>
-</tr>
-</table>
+LinkedIn
+----------
+linkedin.com/in/yourprofile
+```
+
 
 ---
 
