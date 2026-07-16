@@ -84,6 +84,12 @@ Pune, Maharashtra, India
 • AWS
 • Kafka
 
+⚙️ IDE
+• IntelliJ IDEA
+• VS Code
+• STS
+
+
 📧 Email
 ahireabhishek.15@gmail.com
 
