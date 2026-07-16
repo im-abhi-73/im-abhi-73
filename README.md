@@ -61,7 +61,6 @@ Java Full Stack Developer | Spring Boot | React | SQL
 --------------------------------------
         Abhishek Ahire
 --------------------------------------
-
 💼 Role
 Java Full Stack Developer
 
